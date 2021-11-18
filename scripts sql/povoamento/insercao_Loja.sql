@@ -1,0 +1,12 @@
+INSERT INTO Loja (id_loja, nome_jogo,tipo) VALUES (0,'Tom Clancy"s Rainbow Six Siege','COMUM');
+INSERT INTO Loja (id_loja, nome_jogo,tipo) VALUES (0,'Brawlhalla','COMUM');
+INSERT INTO Loja (id_loja, nome_jogo,tipo) VALUES (0,'Assassin"s Creed® Odyssey','COMUM');
+INSERT INTO Loja (id_loja, nome_jogo,tipo) VALUES (0,'PUBG MOBILE','COMUM');
+INSERT INTO Loja (id_loja, nome_jogo,tipo) VALUES (0,'League Of Legends','COMUM');
+INSERT INTO Loja (id_loja, nome_jogo,tipo) VALUES (0,'Grand Theft Auto V','COMUM');
+INSERT INTO Loja (id_loja, nome_jogo,tipo) VALUES (0,'Red Dead Redemption 2','COMUM');
+INSERT INTO Loja (id_loja, nome_jogo,tipo) VALUES (0,'Battlefield 2042','COMUM');
+INSERT INTO Loja (id_loja, nome_jogo,tipo) VALUES (0,'FIFA 22','COMUM');
+INSERT INTO Loja (id_loja, nome_jogo,tipo) VALUES (0,'Dota 2','COMUM');
+INSERT INTO Loja (id_loja, nome_jogo,tipo) VALUES (0,'Call of Duty: Black Ops 3','COMUM');
+INSERT INTO Loja (id_loja, nome_jogo,tipo) VALUES (0,'Marvel vs. Capcom Infinite','COMUM');
